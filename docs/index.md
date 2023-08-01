@@ -1,6 +1,6 @@
 # Real Cloud Education
 
->> This is a "work-in-progress" project <<
+> This is a "work-in-progress" project
 
 Real Cloud Education
 
@@ -12,6 +12,6 @@ Real Cloud Education
 
 Happy learning
     
-[#AntonioFeijaoUK](https://wwww.antoniofeijao.com/)
+[#AntonioFeijaoUK](https://www.antoniofeijao.com/)
 
 ![Real Cloud Education](miguel-a-amutio-uERVMle1SU-unsplash-medium.jpg)
